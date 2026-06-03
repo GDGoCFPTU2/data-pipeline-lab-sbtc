@@ -1,5 +1,8 @@
 # Student Guide: The Multi-Modal Minefield Lab
-
+- Họ và tên: Nguyễn Hoàng Việt
+- nguyenhoangviet23022004@gmail.com
+- Astrq23
+- astrq23
 ## 1. Tổng quan
 Chào mừng bạn đến với bài lab về **Data Pipeline Engineering**. Trong bài tập này, bạn sẽ làm việc với dữ liệu phi cấu trúc (Unstructured Data) - loại dữ liệu chiếm 80% thế giới thực nhưng cực kỳ khó xử lý.
 
